@@ -1,2 +1,2 @@
-# Rubiks-Cube-Scrambler
-Efficient rubiks cube scramble generator
+# Rubiks Cube Scrambler
+Efficient Rubik's Cube scramble generator.
